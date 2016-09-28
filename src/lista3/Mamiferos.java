@@ -9,13 +9,6 @@ package lista3;
  *
  * @author a1502522
  */
-public class Ex1 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Mamiferos extends  Animal {
     
 }
